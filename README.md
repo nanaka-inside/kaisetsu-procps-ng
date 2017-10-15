@@ -1,5 +1,9 @@
 # 解説Procps-ng
 
+
+![cover](https://ba96f6cb-a-62cb3a1a-s-sites.googlegroups.com/site/dai7sec/home/H1.png "cover")
+
+
 このリポジトリは同人サークル[第7開発セクション](https://sites.google.com/site/dai7sec/ "第7開発セクション")が[技術書典3](https://techbookfest.org/event/tbf03) (2017/10/22)で発行した同人誌「解説Procps-ng」の原稿です。
 
 [Procps-ng](https://gitlab.com/procps-ng/procps "procps")のマニュアルを筆者([@tboffice](https://twitter.com/tboffice))がひと通り読んで、便利そうなところや注意点などをまとめました。
